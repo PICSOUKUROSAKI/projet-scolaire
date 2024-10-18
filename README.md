@@ -1,2 +1,2 @@
-# projet-scolaire
-Ceci est un dossier pour l'ensemble des projets effectués durant ma formation informatique à l'ENSPY
+# E-BOOK LSI
+Ceci est un projet de réalisation d'une bibliothèque de manga sur le web
